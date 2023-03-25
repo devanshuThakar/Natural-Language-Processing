@@ -17,4 +17,4 @@ According to <b>Heap's Law</b>, the size of vocabulary $|V|$ and number of token
 $$|V| = K N^{\beta}$$
 where $K$ and $\beta$ parameters. The plot is shown below : 
 
-![alt-txt](https://github.com/devanshuThakar/Natural-Language-Processing/blob/main/Assignment-1/Heaps_Law_plot.png?raw=true)
+![alt-txt](https://github.com/devanshuThakar/Natural-Language-Processing/blob/main/Assignment-2/Heaps_Law_plot.png?raw=true)
